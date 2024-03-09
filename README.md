@@ -1,4 +1,4 @@
-# Template FastAPI project with SQLALchemy and Docker PostgresSQL
+# Template FastAPI project with SQLALchemy and Docker PostgreSQL
 
 Before running the Docker Compose, it's necessary to set up secrets.
 
